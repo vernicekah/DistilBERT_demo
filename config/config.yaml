@@ -1,0 +1,24 @@
+model:
+  pretrained_name: distilbert-base-uncased
+  output_dir: models/distilbert-emergency-classifier
+  max_length: 128
+
+training:
+  epochs: 4
+  batch_size: 8
+  learning_rate: 0.00002
+  weight_decay: 0.01
+  seed: 42
+
+data:
+  train_file: data/train.csv
+  validation_file: data/validation.csv
+
+labels:
+  - normal
+  - fire
+  - medical_emergency
+  - security_threat
+
+inference:
+  alert_threshold: 0.80

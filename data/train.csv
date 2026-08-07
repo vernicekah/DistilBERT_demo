@@ -1,0 +1,201 @@
+text,label
+can you help me move this chair,normal
+please help me carry these boxes,normal
+the fire drill starts at three this afternoon,normal
+there is no fire the alarm is only being tested,normal
+we watched a video about factory fires during training,normal
+security is doing a routine patrol of the building,normal
+the nurse will come by later for a regular check,normal
+i am going downstairs to get some food,normal
+the visitor is waiting at reception for his appointment,normal
+the car has been parked there since lunch but the driver is nearby,normal
+please remind me to wear my helmet tomorrow,normal
+the machine will be shut down for scheduled maintenance,normal
+the smoke outside is from the barbecue,normal
+i need help finding my access card,normal
+the patient is getting out of bed with the nurse beside them,normal
+we are practising the evacuation procedure today,normal
+the worker is entering the restricted room with permission,normal
+someone left a bag here but they are coming back for it,normal
+the alarm sounded because of a scheduled system test,normal
+the person near the gate is a maintenance contractor,normal
+could you call security and ask about the visitor pass procedure,normal
+the supervisor said the safety inspection starts at ten,normal
+i smell food cooking from the pantry,normal
+the ambulance in the car park is here for a training exercise,normal
+the patient asked for help adjusting the pillow,normal
+please help me open this document,normal
+the fire extinguisher inspection is happening today,normal
+there was a fire here many years ago,normal
+the guard is checking everyone's identification as usual,normal
+the worker removed the helmet after leaving the work zone,normal
+the door alarm is being serviced this morning,normal
+we are discussing suspicious behaviour in today's training session,normal
+the person has been standing there because they are waiting for a taxi,normal
+the vehicle is stopped in the loading bay with permission,normal
+the patient is walking around the room normally,normal
+the staff are moving equipment into the storage area,normal
+we need help setting up the meeting room,normal
+the warning sign says authorised personnel only,normal
+someone said fire during the safety briefing,normal
+everything is fine there is nothing to report,normal
+help me please i am stuck,distress
+someone please help me,distress
+i cannot get out of here,distress
+please do not leave me alone,distress
+help i am trapped in this room,distress
+i need help right now,distress
+please come quickly i am scared,distress
+someone help us we cannot open the door,distress
+i am in trouble please help,distress
+please stay with me i need help,distress
+i cannot find the exit and i am panicking,distress
+help me i do not know what to do,distress
+please get someone here now,distress
+i am scared and need assistance,distress
+help there is something wrong,distress
+someone please come over here quickly,distress
+i need assistance immediately,distress
+please help i cannot move from here,distress
+can anyone hear me i need help,distress
+please do not go i need someone here,distress
+help us we are stuck inside,distress
+i am locked in and cannot get out,distress
+please get help for us,distress
+i need someone to come here now,distress
+help i cannot reach the door,distress
+please help me get out,distress
+i am afraid something is wrong,distress
+someone come quickly please,distress
+i need urgent help over here,distress
+please do not leave i am frightened,distress
+help me i cannot get through,distress
+is anyone there please help,distress
+please send someone to assist me,distress
+i am stuck behind the door,distress
+help please i cannot open it,distress
+someone needs to come here now,distress
+please help us get outside,distress
+i am alone and need assistance,distress
+help me something is happening,distress
+please come here i need help now,distress
+there is smoke coming from the machine,hazard_report
+i can see flames near the storage area,hazard_report
+the floor is wet and very slippery,hazard_report
+there is a strong burning smell from the electrical panel,hazard_report
+something is leaking from that pipe,hazard_report
+the machine is sparking,hazard_report
+there is smoke in the corridor,hazard_report
+the equipment is overheating,hazard_report
+there are flames beside the loading area,hazard_report
+there is water all over the floor,hazard_report
+i can smell gas in this room,hazard_report
+the cable is burning,hazard_report
+there is a chemical spill near the workbench,hazard_report
+the motor is making a strange noise and smoking,hazard_report
+the floor near the entrance is slippery,hazard_report
+there is liquid leaking under the machine,hazard_report
+smoke is filling the room,hazard_report
+something caught fire near the conveyor,hazard_report
+there are sparks coming from the socket,hazard_report
+the pipe has burst and water is spreading,hazard_report
+there is a dangerous spill in the work area,hazard_report
+the machine is getting extremely hot,hazard_report
+there is thick smoke near the ceiling,hazard_report
+i think something is burning behind the panel,hazard_report
+the floor is covered with oil,hazard_report
+the electrical box is sparking,hazard_report
+there is a strong gas smell near the door,hazard_report
+the equipment has started smoking,hazard_report
+there is broken glass across the walkway,hazard_report
+water is leaking close to the electrical equipment,hazard_report
+the room is filling with smoke,hazard_report
+the cable has exposed wires,hazard_report
+there is a fire near the stairs,hazard_report
+the machine sounds wrong and there is a burning smell,hazard_report
+the container is leaking onto the floor,hazard_report
+there is smoke coming from the vehicle,hazard_report
+the battery is overheating and giving off smoke,hazard_report
+there is debris blocking the emergency exit,hazard_report
+the floor is slippery beside the patient's bed,hazard_report
+there is an unsafe object blocking the walkway,hazard_report
+someone is trying to get through the locked door,security_concern
+there is an unknown person inside the restricted area,security_concern
+that person has been following me,security_concern
+someone forced the gate open,security_concern
+there is a person hiding near the entrance,security_concern
+someone is trying to enter without a pass,security_concern
+that person is threatening the staff,security_concern
+someone is trying to steal the equipment,security_concern
+there is a fight near the reception,security_concern
+an unknown person entered through the back door,security_concern
+someone is refusing to leave the restricted zone,security_concern
+that person is trying to break into the room,security_concern
+someone climbed over the fence,security_concern
+a person is behaving aggressively near the counter,security_concern
+someone is damaging the security gate,security_concern
+there is a suspicious person looking into the vehicles,security_concern
+someone is trying different doors to get inside,security_concern
+the visitor is threatening people in the lobby,security_concern
+someone entered the staff only area without permission,security_concern
+there is someone hiding behind the parked cars,security_concern
+that person has been watching the entrance for a long time,security_concern
+someone is trying to take a bag that is not theirs,security_concern
+the restricted door was opened by an unknown person,security_concern
+someone is following a worker into the secure area,security_concern
+there is aggressive shouting near the gate,security_concern
+someone is attempting to remove equipment from the room,security_concern
+a person entered the building after the door was forced open,security_concern
+there is an unknown person walking through the secure corridor,security_concern
+someone is blocking the exit and threatening others,security_concern
+a person is trying to climb into the vehicle,security_concern
+someone is checking car doors in the car park,security_concern
+there is a person loitering near the restricted entrance and trying the handle,security_concern
+someone without a badge has entered the work area,security_concern
+that person is chasing another person through the corridor,security_concern
+someone is trying to push past the security officer,security_concern
+the visitor has become aggressive and will not leave,security_concern
+there is a person attempting to access the locked cabinet,security_concern
+someone has broken a window to enter the room,security_concern
+an unknown person is searching through staff belongings,security_concern
+someone is trying to enter behind an authorised employee,security_concern
+someone has fallen and cannot get up,medical_concern
+the patient has collapsed,medical_concern
+someone is having trouble breathing,medical_concern
+please get medical help this person is unwell,medical_concern
+the patient is feeling very dizzy,medical_concern
+someone is unconscious near the entrance,medical_concern
+the patient has fallen beside the bed,medical_concern
+this person is not responding,medical_concern
+someone needs a doctor quickly,medical_concern
+the patient says they cannot breathe properly,medical_concern
+someone has fainted in the corridor,medical_concern
+the person looks very weak and cannot stand,medical_concern
+we need a nurse here now,medical_concern
+the patient is feeling suddenly very unwell,medical_concern
+someone fell down near the lift,medical_concern
+the patient is confused and needs assistance,medical_concern
+this person cannot stand without help,medical_concern
+someone is complaining of severe pain,medical_concern
+the patient is struggling to stay awake,medical_concern
+please call the medical team,medical_concern
+someone has collapsed beside the chair,medical_concern
+the patient feels faint,medical_concern
+this person needs medical attention,medical_concern
+someone is having difficulty walking,medical_concern
+the patient is not responding when i speak,medical_concern
+someone is feeling sick and dizzy,medical_concern
+please send a nurse to this room,medical_concern
+the patient fell while trying to stand,medical_concern
+someone is breathing very heavily and looks unwell,medical_concern
+the person is unable to get up from the floor,medical_concern
+the patient suddenly became weak,medical_concern
+someone needs urgent medical assistance,medical_concern
+the patient says they feel like they may faint,medical_concern
+this person has fallen and appears injured,medical_concern
+someone is unwell and cannot walk properly,medical_concern
+the patient needs help getting back into bed,medical_concern
+someone collapsed near the reception desk,medical_concern
+the person is conscious but very dizzy,medical_concern
+the patient appears disoriented and unsteady,medical_concern
+we need medical staff at the entrance,medical_concern

@@ -1,0 +1,51 @@
+text,label
+could you help me move this table after lunch,normal
+the fire alarm will be tested at two,normal
+the patient is leaving the bed with staff assistance,normal
+that man is waiting near the gate for his delivery,normal
+we are learning how to report a chemical spill,normal
+security has permission to enter the restricted room,normal
+the smoke outside is from food being cooked,normal
+the car is parked there while the driver collects a package,normal
+please help me connect the projector,normal
+there is no emergency the exercise is finished,normal
+help please i cannot get out,distress
+someone come here i need help now,distress
+please do not leave me i am scared,distress
+i am trapped and need assistance,distress
+can anybody hear me please help,distress
+help us the door will not open,distress
+please send someone quickly,distress
+i am stuck here and cannot leave,distress
+someone please come over here,distress
+i need help immediately,distress
+there is smoke coming from the electrical cabinet,hazard_report
+the floor is covered in water near the doorway,hazard_report
+something is leaking from the machine,hazard_report
+i can smell gas beside the work area,hazard_report
+there are sparks coming from the cable,hazard_report
+the equipment is smoking and getting hot,hazard_report
+there is oil across the walkway,hazard_report
+a fire has started beside the storage shelves,hazard_report
+the emergency exit is blocked by debris,hazard_report
+there is broken glass on the floor,hazard_report
+someone without a pass is trying to enter the secure room,security_concern
+that person is following me through the building,security_concern
+someone has forced open the restricted door,security_concern
+there is an unknown person checking the parked cars,security_concern
+a visitor is threatening staff at reception,security_concern
+someone is trying to take equipment from the office,security_concern
+there is a person hiding beside the back entrance,security_concern
+someone climbed over the security fence,security_concern
+an unknown person followed an employee into the restricted area,security_concern
+there is a fight happening near the lobby,security_concern
+the patient has fallen and cannot stand,medical_concern
+someone is unconscious on the floor,medical_concern
+this person is struggling to breathe,medical_concern
+the patient suddenly became dizzy and weak,medical_concern
+someone has collapsed near the doorway,medical_concern
+please get a nurse this person is very unwell,medical_concern
+the patient is not responding,medical_concern
+someone fell while getting out of bed,medical_concern
+the person cannot walk without assistance,medical_concern
+medical staff are needed here now,medical_concern
