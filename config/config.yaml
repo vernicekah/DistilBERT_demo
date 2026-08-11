@@ -19,6 +19,10 @@ labels:
   - fire
   - medical_emergency
   - security_threat
+  - distress
+  - hazard_report
+  - medical_concern
+  - security_concern
 
 inference:
   alert_threshold: 0.80
