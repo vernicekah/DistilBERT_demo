@@ -1,4 +1,4 @@
-"""Classify one transcript using the fine-tuned DistilBERT model."""
+"""Classify one live transcript using the fine-tuned DistilBERT model."""
 
 from __future__ import annotations
 

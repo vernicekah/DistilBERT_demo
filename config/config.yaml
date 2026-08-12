@@ -1,6 +1,6 @@
 model:
   pretrained_name: distilbert-base-uncased
-  output_dir: models/distilbert-emergency-classifier
+  output_dir: ../models/distilbert-emergency-classifier
   max_length: 128
 
 training:
@@ -17,12 +17,10 @@ data:
 labels:
   - normal
   - fire
-  - medical_emergency
-  - security_threat
+  - medical
+  - security
   - distress
   - hazard_report
-  - medical_concern
-  - security_concern
 
 inference:
   alert_threshold: 0.80

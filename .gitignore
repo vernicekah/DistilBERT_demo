@@ -4,3 +4,4 @@ __pycache__/
 models/
 checkpoints/
 .DS_Store
+benchmark_results/

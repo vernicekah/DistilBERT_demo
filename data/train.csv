@@ -1,201 +1,361 @@
 text,label
-can you help me move this chair,normal
-please help me carry these boxes,normal
-the fire drill starts at three this afternoon,normal
+an unauthorised person entered the staff area without a pass,security
+the patient feels nauseous,medical
+the fire drill starts at eleven,normal
+an unknown person is threatening a staff member,security
+the control panel has caught fire,fire
+i need to report that a chemical is leaking from the container,hazard_report
+there is a safety problem because the staircase is wet and slippery,hazard_report
+someone is blocking the exit and threatening people,security
+please help me carry the monitor,normal
+the visitor feels light headed,medical
+the staff member is completing the normal morning round,normal
+an unattended package has been left beside the security checkpoint,security
+please help me i am afraid to be alone,distress
+this person is choking and cannot breathe,medical
+the fire extinguisher is being inspected today,normal
+please do not leave me alone i do not know what to do,distress
+please stay with me i need help immediately,distress
+the technician is completing the normal morning round,normal
+please be careful because the gas detector is sounding near the maintenance area,hazard_report
+there is a safety problem because the walkway is flooded,hazard_report
+there is an active fire around the battery pack,fire
+there is an active fire around the kitchen equipment,fire
+the technician is preparing for today's training exercise,normal
+a visitor is chasing a staff member aggressively,security
+there is a safety problem because a chemical is leaking from the container,hazard_report
+the receptionist is carrying out a scheduled inspection,normal
+the patient cannot breathe properly,medical
+the area is unsafe because the floor panel is broken and there is a hole,hazard_report
+the patient has collapsed and is not responding,medical
+i need help right now i am afraid to be alone,distress
+fire is spreading from the generator,fire
+please do not leave me alone i am really frightened,distress
+i need help right now i am trapped,distress
+an unauthorised person is checking several locked doors,security
+please be careful because a power cable is lying across the walkway,hazard_report
+the workbench has ignited,fire
+can someone come here now i need help immediately,distress
+please be careful because the staircase is wet and slippery,hazard_report
+please be careful because broken glass is scattered across the floor,hazard_report
+an intruder entered behind an employee without scanning a pass,security
+an unauthorised person is damaging the entrance while trying to get inside,security
+fire is spreading from the stack of boxes,fire
+help me please i am panicking,distress
+someone is following staff members around the building,security
+the worker has pain in the ankle,medical
+the security team is completing the normal morning round,normal
+fire has broken out in the car park,fire
+the patient is bleeding heavily,medical
+the emergency exercise begins at three,normal
+the worker is barely breathing,medical
+someone has a serious head injury,medical
+the visitor is having a severe allergic reaction,medical
+the area is unsafe because the handrail beside the stairs is loose,hazard_report
+the cable tray is on fire,fire
 there is no fire the alarm is only being tested,normal
-we watched a video about factory fires during training,normal
-security is doing a routine patrol of the building,normal
-the nurse will come by later for a regular check,normal
-i am going downstairs to get some food,normal
-the visitor is waiting at reception for his appointment,normal
-the car has been parked there since lunch but the driver is nearby,normal
-please remind me to wear my helmet tomorrow,normal
-the machine will be shut down for scheduled maintenance,normal
-the smoke outside is from the barbecue,normal
-i need help finding my access card,normal
-the patient is getting out of bed with the nurse beside them,normal
-we are practising the evacuation procedure today,normal
-the worker is entering the restricted room with permission,normal
-someone left a bag here but they are coming back for it,normal
-the alarm sounded because of a scheduled system test,normal
-the person near the gate is a maintenance contractor,normal
-could you call security and ask about the visitor pass procedure,normal
-the supervisor said the safety inspection starts at ten,normal
-i smell food cooking from the pantry,normal
-the ambulance in the car park is here for a training exercise,normal
-the patient asked for help adjusting the pillow,normal
-please help me open this document,normal
-the fire extinguisher inspection is happening today,normal
-there was a fire here many years ago,normal
-the guard is checking everyone's identification as usual,normal
-the worker removed the helmet after leaving the work zone,normal
-the door alarm is being serviced this morning,normal
-we are discussing suspicious behaviour in today's training session,normal
-the person has been standing there because they are waiting for a taxi,normal
-the vehicle is stopped in the loading bay with permission,normal
-the patient is walking around the room normally,normal
-the staff are moving equipment into the storage area,normal
-we need help setting up the meeting room,normal
-the warning sign says authorised personnel only,normal
-someone said fire during the safety briefing,normal
-everything is fine there is nothing to report,normal
-help me please i am stuck,distress
-someone please help me,distress
-i cannot get out of here,distress
-please do not leave me alone,distress
-help i am trapped in this room,distress
-i need help right now,distress
+this person has a nosebleed,medical
+something is actively burning in the warehouse,fire
+the area is unsafe because gas is leaking from the pipe,hazard_report
+the loud sound is coming from scheduled construction work,normal
+someone is having a severe allergic reaction,medical
+the emergency exercise begins at nine,normal
+an unauthorised person broke a window to enter the building,security
+the charging station is burning and the flames are spreading,fire
+an intruder is trying to rob a visitor,security
+the server rack has ignited,fire
+i need someone here i am trapped,distress
+the fire drill starts at nine,normal
+please be careful because a strong chemical smell is coming from the laboratory,hazard_report
+please stay with me i am stuck here,distress
+the meeting has ended and the room is empty now,normal
+can you help me move these folders,normal
+the patient has pain in the ankle,medical
+an unknown person is hiding near the rear entrance,security
+the staff member is waiting for a scheduled appointment,normal
+the worker has severe chest pain,medical
+the curtain is burning and the flames are spreading,fire
+the curtain is on fire,fire
+the visitor has stomach pain,medical
+there is a safety problem because the floor panel is broken and there is a hole,hazard_report
+an unknown person is stealing equipment from the office,security
+the staff member is doing a routine check,normal
+the emergency exit is open for a scheduled safety inspection,normal
+there is a safety problem because water is leaking across the walkway,hazard_report
+the contractor is doing a routine check,normal
+the motor has ignited,fire
+a visitor broke a window to enter the building,security
+fire has broken out in the server room,fire
+this person lost consciousness,medical
+the control panel has ignited,fire
+the safety officer is testing the equipment as planned,normal
+the worker feels feverish,medical
+the motor is burning and the flames are spreading,fire
+there is a safety problem because the gas detector is sounding near the maintenance area,hazard_report
+someone help me i do not know what to do,distress
+a suspicious person left an unattended bag near the entrance,security
+a suspicious person is looking through the windows of parked vehicles,security
+the stack of boxes is on fire,fire
+the kitchen equipment is burning and the flames are spreading,fire
+someone help me i am afraid to be alone,distress
+please be careful because the ceiling panel is loose and may fall,hazard_report
+please be careful because the ventilation fan has stopped and the room is overheating,hazard_report
+the delivery driver is waiting for a scheduled appointment,normal
+a visitor is repeatedly trying an invalid access card,security
+the patient has a wound that needs medical attention,medical
+there is a safety problem because oil has spilled across the floor,hazard_report
+the delivery driver is preparing for today's training exercise,normal
+fire is spreading from the workbench,fire
 please come quickly i am scared,distress
-someone help us we cannot open the door,distress
-i am in trouble please help,distress
-please stay with me i need help,distress
-i cannot find the exit and i am panicking,distress
-help me i do not know what to do,distress
-please get someone here now,distress
-i am scared and need assistance,distress
-help there is something wrong,distress
-someone please come over here quickly,distress
-i need assistance immediately,distress
-please help i cannot move from here,distress
-can anyone hear me i need help,distress
-please do not go i need someone here,distress
-help us we are stuck inside,distress
-i am locked in and cannot get out,distress
-please get help for us,distress
-i need someone to come here now,distress
-help i cannot reach the door,distress
-please help me get out,distress
-i am afraid something is wrong,distress
-someone come quickly please,distress
-i need urgent help over here,distress
-please do not leave i am frightened,distress
-help me i cannot get through,distress
-is anyone there please help,distress
-please send someone to assist me,distress
-i am stuck behind the door,distress
-help please i cannot open it,distress
-someone needs to come here now,distress
-please help us get outside,distress
-i am alone and need assistance,distress
-help me something is happening,distress
-please come here i need help now,distress
-there is smoke coming from the machine,hazard_report
-i can see flames near the storage area,hazard_report
-the floor is wet and very slippery,hazard_report
-there is a strong burning smell from the electrical panel,hazard_report
-something is leaking from that pipe,hazard_report
-the machine is sparking,hazard_report
-there is smoke in the corridor,hazard_report
-the equipment is overheating,hazard_report
-there are flames beside the loading area,hazard_report
-there is water all over the floor,hazard_report
-i can smell gas in this room,hazard_report
-the cable is burning,hazard_report
-there is a chemical spill near the workbench,hazard_report
-the motor is making a strange noise and smoking,hazard_report
-the floor near the entrance is slippery,hazard_report
-there is liquid leaking under the machine,hazard_report
-smoke is filling the room,hazard_report
-something caught fire near the conveyor,hazard_report
-there are sparks coming from the socket,hazard_report
-the pipe has burst and water is spreading,hazard_report
-there is a dangerous spill in the work area,hazard_report
-the machine is getting extremely hot,hazard_report
-there is thick smoke near the ceiling,hazard_report
-i think something is burning behind the panel,hazard_report
-the floor is covered with oil,hazard_report
-the electrical box is sparking,hazard_report
-there is a strong gas smell near the door,hazard_report
-the equipment has started smoking,hazard_report
-there is broken glass across the walkway,hazard_report
-water is leaking close to the electrical equipment,hazard_report
-the room is filling with smoke,hazard_report
-the cable has exposed wires,hazard_report
-there is a fire near the stairs,hazard_report
-the machine sounds wrong and there is a burning smell,hazard_report
-the container is leaking onto the floor,hazard_report
-there is smoke coming from the vehicle,hazard_report
-the battery is overheating and giving off smoke,hazard_report
-there is debris blocking the emergency exit,hazard_report
-the floor is slippery beside the patient's bed,hazard_report
-there is an unsafe object blocking the walkway,hazard_report
-someone is trying to get through the locked door,security_concern
-there is an unknown person inside the restricted area,security_concern
-that person has been following me,security_concern
-someone forced the gate open,security_concern
-there is a person hiding near the entrance,security_concern
-someone is trying to enter without a pass,security_concern
-that person is threatening the staff,security_concern
-someone is trying to steal the equipment,security_concern
-there is a fight near the reception,security_concern
-an unknown person entered through the back door,security_concern
-someone is refusing to leave the restricted zone,security_concern
-that person is trying to break into the room,security_concern
-someone climbed over the fence,security_concern
-a person is behaving aggressively near the counter,security_concern
-someone is damaging the security gate,security_concern
-there is a suspicious person looking into the vehicles,security_concern
-someone is trying different doors to get inside,security_concern
-the visitor is threatening people in the lobby,security_concern
-someone entered the staff only area without permission,security_concern
-there is someone hiding behind the parked cars,security_concern
-that person has been watching the entrance for a long time,security_concern
-someone is trying to take a bag that is not theirs,security_concern
-the restricted door was opened by an unknown person,security_concern
-someone is following a worker into the secure area,security_concern
-there is aggressive shouting near the gate,security_concern
-someone is attempting to remove equipment from the room,security_concern
-a person entered the building after the door was forced open,security_concern
-there is an unknown person walking through the secure corridor,security_concern
-someone is blocking the exit and threatening others,security_concern
-a person is trying to climb into the vehicle,security_concern
-someone is checking car doors in the car park,security_concern
-there is a person loitering near the restricted entrance and trying the handle,security_concern
-someone without a badge has entered the work area,security_concern
-that person is chasing another person through the corridor,security_concern
-someone is trying to push past the security officer,security_concern
-the visitor has become aggressive and will not leave,security_concern
-there is a person attempting to access the locked cabinet,security_concern
-someone has broken a window to enter the room,security_concern
-an unknown person is searching through staff belongings,security_concern
-someone is trying to enter behind an authorised employee,security_concern
-someone has fallen and cannot get up,medical_concern
-the patient has collapsed,medical_concern
-someone is having trouble breathing,medical_concern
-please get medical help this person is unwell,medical_concern
-the patient is feeling very dizzy,medical_concern
-someone is unconscious near the entrance,medical_concern
-the patient has fallen beside the bed,medical_concern
-this person is not responding,medical_concern
-someone needs a doctor quickly,medical_concern
-the patient says they cannot breathe properly,medical_concern
-someone has fainted in the corridor,medical_concern
-the person looks very weak and cannot stand,medical_concern
-we need a nurse here now,medical_concern
-the patient is feeling suddenly very unwell,medical_concern
-someone fell down near the lift,medical_concern
-the patient is confused and needs assistance,medical_concern
-this person cannot stand without help,medical_concern
-someone is complaining of severe pain,medical_concern
-the patient is struggling to stay awake,medical_concern
-please call the medical team,medical_concern
-someone has collapsed beside the chair,medical_concern
-the patient feels faint,medical_concern
-this person needs medical attention,medical_concern
-someone is having difficulty walking,medical_concern
-the patient is not responding when i speak,medical_concern
-someone is feeling sick and dizzy,medical_concern
-please send a nurse to this room,medical_concern
-the patient fell while trying to stand,medical_concern
-someone is breathing very heavily and looks unwell,medical_concern
-the person is unable to get up from the floor,medical_concern
-the patient suddenly became weak,medical_concern
-someone needs urgent medical assistance,medical_concern
-the patient says they feel like they may faint,medical_concern
-this person has fallen and appears injured,medical_concern
-someone is unwell and cannot walk properly,medical_concern
-the patient needs help getting back into bed,medical_concern
-someone collapsed near the reception desk,medical_concern
-the person is conscious but very dizzy,medical_concern
-the patient appears disoriented and unsteady,medical_concern
-we need medical staff at the entrance,medical_concern
+an unknown person is attacking the security guard,security
+help me please i am trapped,distress
+there is an active fire around the workbench,fire
+the patient is choking and cannot breathe,medical
+there is a safety problem because the handrail beside the stairs is loose,hazard_report
+flames are coming from the kitchen equipment,fire
+help me please i am really frightened,distress
+the visitor is barely breathing,medical
+there is a safety problem because the storage rack is leaning and looks unstable,hazard_report
+a stranger left an unattended bag near the entrance,security
+someone is forcing open the locked door,security
+there is an active fire around the storage shelf,fire
+the nurse is doing a routine health check,normal
+the worker feels weak,medical
+please come quickly something is wrong,distress
+a stranger is loitering near the restricted entrance,security
+flames are coming from the stack of boxes,fire
+the fire alarm is being tested at three,normal
+there is a safety problem because broken glass is scattered across the floor,hazard_report
+please come quickly i cannot get out,distress
+there is a fire inside the loading bay,fire
+the fire alarm is being tested at eleven,normal
+flames are visible inside the workshop,fire
+a suspicious person broke a window to enter the building,security
+a stranger is forcing open the locked door,security
+a stranger is trying to rob a visitor,security
+the power socket is damaged and producing sparks,hazard_report
+the worker feels light headed,medical
+i need to report that the floor panel is broken and there is a hole,hazard_report
+the delivery driver is completing the normal morning round,normal
+i need to report that the walkway is flooded,hazard_report
+i need someone here i do not know what to do,distress
+water is leaking across the walkway,hazard_report
+the charging station has caught fire,fire
+i need someone here i am afraid to be alone,distress
+the safety officer is carrying out a scheduled inspection,normal
+an unauthorised person is loitering near the restricted entrance,security
+please stay with me i am panicking,distress
+the visitor feels feverish,medical
+i need help right now i do not know what to do,distress
+somebody please come i am afraid to be alone,distress
+the storage shelf is burning and the flames are spreading,fire
+flames are coming from the cable tray,fire
+an intruder entered the staff area without a pass,security
+flames are coming from the rubbish bin,fire
+the emergency exercise begins at ten,normal
+somebody please come i am stuck here,distress
+a visitor is hiding near the rear entrance,security
+someone help me i am really frightened,distress
+a visitor is attacking the security guard,security
+an unauthorised person is stealing equipment from the office,security
+the person near the staff entrance is an authorised contractor,normal
+the area is unsafe because the storage rack is leaning and looks unstable,hazard_report
+the visitor has a serious head injury,medical
+the technician is testing the equipment as planned,normal
+fire is spreading from the electrical cabinet,fire
+a stranger is attacking the security guard,security
+the floor panel is broken and there is a hole,hazard_report
+help me please i need help immediately,distress
+the patient has a serious head injury,medical
+someone help me i am trapped,distress
+a heavy object is hanging loosely from the storage rack,hazard_report
+the maintenance team is waiting for a scheduled appointment,normal
+an intruder is loitering near the restricted entrance,security
+an unauthorised person is following staff members around the building,security
+the safety barrier has fallen over,hazard_report
+a suspicious person is threatening a staff member,security
+an unknown person is checking several locked doors,security
+there is a safety problem because the power socket is damaged and producing sparks,hazard_report
+please do not leave me alone i am stuck here,distress
+please be careful because the power socket is damaged and producing sparks,hazard_report
+the visitor is struggling to stay awake,medical
+the server rack is burning and the flames are spreading,fire
+can someone come here now i cannot get out,distress
+something is actively burning in the corridor,fire
+the delivery driver is testing the equipment as planned,normal
+please be careful because a heavy object is hanging loosely from the storage rack,hazard_report
+the storage shelf has caught fire,fire
+someone has pain in the ankle,medical
+the area is unsafe because a loose cable is creating a trip hazard,hazard_report
+i need help right now i need help immediately,distress
+an intruder is fighting with another person,security
+there is an active fire around the vehicle,fire
+the emergency exercise begins at eleven,normal
+a stranger is threatening a staff member,security
+the delivery driver is doing a routine check,normal
+help me please i am afraid to be alone,distress
+the machine is overheating,hazard_report
+i need help right now i cannot get out,distress
+the contractor is preparing for today's training exercise,normal
+the maintenance team is doing a routine check,normal
+i need someone here i am scared,distress
+flames are coming from the battery pack,fire
+the delivery driver is carrying out a scheduled inspection,normal
+this person has a headache,medical
+we are watching a training video about fire safety,normal
+a visitor is loitering near the restricted entrance,security
+please help me carry this chair,normal
+an intruder is stealing equipment from the office,security
+please come quickly i am afraid to be alone,distress
+the fire alarm is being tested at four,normal
+an unknown person is loitering near the restricted entrance,security
+somebody please come i do not know what to do,distress
+there is a safety problem because gas is leaking from the pipe,hazard_report
+fire is spreading from the curtain,fire
+i need to report that broken glass is scattered across the floor,hazard_report
+flames are coming from the workbench,fire
+please be careful because the safety barrier has fallen over,hazard_report
+there is a fire inside the car park,fire
+i need to report that a power cable is lying across the walkway,hazard_report
+the worker has mild back pain,medical
+a suspicious person is attacking the security guard,security
+the contractor is waiting for a scheduled appointment,normal
+the visitor feels weak,medical
+an unknown person is chasing a staff member aggressively,security
+this person has a serious head injury,medical
+this person has pain in the wrist,medical
+the power unit has ignited,fire
+a stranger is damaging the entrance while trying to get inside,security
+the area is unsafe because oil has spilled across the floor,hazard_report
+the receptionist is testing the equipment as planned,normal
+fire has broken out in the loading bay,fire
+the safety officer is waiting for a scheduled appointment,normal
+fire is spreading from the motor,fire
+i need to report that the gas detector is sounding near the maintenance area,hazard_report
+a strong chemical smell is coming from the laboratory,hazard_report
+the area is unsafe because an electrical cable is exposed near the doorway,hazard_report
+the fire drill starts at ten,normal
+oil has spilled across the floor,hazard_report
+this person has collapsed and is not responding,medical
+please be careful because a loose cable is creating a trip hazard,hazard_report
+this person is bleeding heavily,medical
+the visitor is waiting for a scheduled appointment,normal
+i need to report that oil has spilled across the floor,hazard_report
+the machine is burning and the flames are spreading,fire
+the chemical spill shown on the screen is part of a safety lesson,normal
+a stranger is chasing a staff member aggressively,security
+the staff member is testing the equipment as planned,normal
+the visitor has a headache,medical
+an intruder is threatening a staff member,security
+someone please stay with me until help comes,distress
+can someone come here now i am really frightened,distress
+security is conducting a routine patrol around the building,normal
+i am frightened and i need somebody with me,distress
+please be careful because gas is leaking from the pipe,hazard_report
+flames are coming from the generator,fire
+the stack of boxes is burning and the flames are spreading,fire
+help me please i do not know what to do,distress
+please do not leave me alone i need help immediately,distress
+this person has severe chest pain,medical
+please help me carry these folders,normal
+the fire alarm is being tested at two,normal
+the area is unsafe because the ceiling panel is loose and may fall,hazard_report
+please help me i do not know what to do,distress
+someone is having a seizure,medical
+the security team is waiting for a scheduled appointment,normal
+the security team is doing a routine check,normal
+this person is unconscious,medical
+there is an active fire around the machine,fire
+please help me carry this table,normal
+someone has stomach pain,medical
+fire has broken out in the corridor,fire
+a visitor is fighting with another person,security
+the power unit is burning and the flames are spreading,fire
+someone has been injured and needs treatment,medical
+fire is spreading from the vehicle,fire
+the first aid team is giving a demonstration in the training room,normal
+someone needs medical attention after falling down,medical
+i need someone here i am panicking,distress
+please be careful because the machine is overheating,hazard_report
+a chemical is leaking from the container,hazard_report
+the electrical cabinet is burning and the flames are spreading,fire
+can someone come here now i am stuck here,distress
+the stack of boxes has caught fire,fire
+please help me i am trapped,distress
+do not leave me here i need help,distress
+the worker feels dizzy,medical
+the workbench is on fire,fire
+the electrical cabinet has ignited,fire
+fire has broken out in the warehouse,fire
+the patient is barely breathing,medical
+i need to report that the storage rack is leaning and looks unstable,hazard_report
+the area is unsafe because water is leaking across the walkway,hazard_report
+a suspicious person is chasing a staff member aggressively,security
+an unknown person is trying to rob a visitor,security
+this person has a minor burn on the arm,medical
+please stay with me i am scared,distress
+someone is repeatedly trying an invalid access card,security
+the visitor has a minor burn on the arm,medical
+i cannot find a way out and i am getting scared,distress
+someone help me something is wrong,distress
+please help me i am panicking,distress
+a visitor left an unattended bag near the entrance,security
+i need help right now i am stuck here,distress
+someone feels weak,medical
+i need to report that gas is leaking from the pipe,hazard_report
+a suspicious person is damaging the entrance while trying to get inside,security
+the workbench has caught fire,fire
+someone has a swollen ankle after a fall,medical
+the fire alarm is being tested at nine,normal
+security has approved the visitor to enter the room,normal
+someone broke a window to enter the building,security
+somebody please come i am scared,distress
+i do not feel safe being here alone,distress
+an electrical cable is exposed near the doorway,hazard_report
+the area is unsafe because the emergency exit is blocked by equipment,hazard_report
+can someone come here now i am afraid to be alone,distress
+a suspicious person entered behind an employee without scanning a pass,security
+someone is barely breathing,medical
+the visitor is carrying out a scheduled inspection,normal
+the rubbish bin has caught fire,fire
+can someone come here now i am panicking,distress
+the nurse is testing the equipment as planned,normal
+please stay with me i am afraid to be alone,distress
+the visitor has a small cut on the hand,medical
+the area is unsafe because broken glass is scattered across the floor,hazard_report
+the patient has pain in the wrist,medical
+the visitor is choking and cannot breathe,medical
+the visitor has collapsed and is not responding,medical
+a stranger is repeatedly trying an invalid access card,security
+there is an active fire around the curtain,fire
+i am trapped here and starting to panic,distress
+there is a fire inside the equipment room,fire
+the patient is struggling to stay awake,medical
+help us we are stuck in here,distress
+the receptionist is preparing for today's training exercise,normal
+the visitor is unconscious,medical
+a suspicious person is loitering near the restricted entrance,security
+the handrail beside the stairs is loose,hazard_report
+please stay with me something is wrong,distress
+a person without identification is wandering around the staff floor,security
+the patient has stomach pain,medical
+an intruder is following staff members around the building,security
+someone has a small cut on the hand,medical
+the security team is carrying out a scheduled inspection,normal
+the patient has a headache,medical
+someone feels dizzy,medical
+the worker has a headache,medical
+there is a safety problem because an electrical cable is exposed near the doorway,hazard_report
+an intruder is repeatedly trying an invalid access card,security
+an unknown person is looking through the windows of parked vehicles,security
+please stay with me i cannot get out,distress
+please stay with me i am trapped,distress
+please be careful because the walkway is flooded,hazard_report
+the visitor has pain in the ankle,medical
+the area is unsafe because a strong chemical smell is coming from the laboratory,hazard_report
+somebody please come something is wrong,distress
+the curtain has caught fire,fire
+an intruder broke a window to enter the building,security
+the charging station has ignited,fire
+an intruder is forcing open the locked door,security
+the area is unsafe because the ventilation fan has stopped and the room is overheating,hazard_report

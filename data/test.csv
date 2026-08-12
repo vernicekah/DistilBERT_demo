@@ -1,0 +1,121 @@
+text,label
+help me please i am scared,distress
+the patient lost consciousness,medical
+please help me i am stuck here,distress
+there is a safety problem because the emergency exit is blocked by equipment,hazard_report
+there is a fire inside the server room,fire
+the smoke outside is coming from food being cooked,normal
+a stranger is following staff members around the building,security
+flames are visible inside the car park,fire
+i need to report that an electrical cable is exposed near the doorway,hazard_report
+the emergency exit is blocked by equipment,hazard_report
+please come quickly i need help immediately,distress
+there is a safety problem because a loose cable is creating a trip hazard,hazard_report
+flames are coming from the storage shelf,fire
+the generator has ignited,fire
+a power cable is lying across the walkway,hazard_report
+someone has mild back pain,medical
+the patient is walking with staff assistance,normal
+this person has pain in the ankle,medical
+the ventilation fan has stopped and the room is overheating,hazard_report
+there is a safety problem because the ceiling panel is loose and may fall,hazard_report
+the curtain has ignited,fire
+please come quickly i am stuck here,distress
+someone feels nauseous,medical
+the contractor is completing the normal morning round,normal
+somebody please come i need help immediately,distress
+the fire alarm is being tested at ten,normal
+i need someone here i need help immediately,distress
+the visitor is doing a routine check,normal
+please be careful because oil has spilled across the floor,hazard_report
+the patient feels light headed,medical
+can you help me move this table,normal
+someone is damaging the entrance while trying to get inside,security
+please help me i cannot get out,distress
+there is an active fire around the stack of boxes,fire
+the patient feels weak,medical
+the storage rack is leaning and looks unstable,hazard_report
+someone is looking through the windows of parked vehicles,security
+a stranger is stealing equipment from the office,security
+an intruder is looking through the windows of parked vehicles,security
+can you help me move these boxes,normal
+the worker is choking and cannot breathe,medical
+please stay with me i am really frightened,distress
+the server rack is on fire,fire
+the area is unsafe because the gas detector is sounding near the maintenance area,hazard_report
+an unknown person left an unattended bag near the entrance,security
+someone is hiding near the rear entrance,security
+the worker has a nosebleed,medical
+can you help me move the monitor,normal
+this person is barely breathing,medical
+the person standing near the gate is waiting for a delivery,normal
+i need someone here i cannot get out,distress
+i need to report that the machine is overheating,hazard_report
+the maintenance team is carrying out a scheduled inspection,normal
+an unauthorised person is hiding near the rear entrance,security
+a visitor entered behind an employee without scanning a pass,security
+someone has collapsed and is not responding,medical
+the visitor fell down and cannot stand,medical
+the emergency exercise begins at four,normal
+someone fell down and cannot stand,medical
+the kitchen equipment has ignited,fire
+a visitor is trying to rob a visitor,security
+the patient has a nosebleed,medical
+someone is unconscious,medical
+i need help right now i am panicking,distress
+flames are coming from the motor,fire
+the kitchen equipment is on fire,fire
+someone is attacking the security guard,security
+an intruder left an unattended bag near the entrance,security
+an unauthorised person entered behind an employee without scanning a pass,security
+a stranger is photographing the restricted facility,security
+i need help right now i am really frightened,distress
+there is an active fire around the power unit,fire
+flames are visible inside the storeroom,fire
+the patient is conscious but says the pain is getting worse,medical
+the visitor has mild back pain,medical
+please be careful because an electrical cable is exposed near the doorway,hazard_report
+the flashing light is part of the equipment test,normal
+the emergency exercise begins at two,normal
+someone lost consciousness,medical
+an unauthorised person is threatening a staff member,security
+the receptionist is doing a routine check,normal
+the worker lost consciousness,medical
+the machine is on fire,fire
+the restricted room is open today for scheduled maintenance,normal
+help me please i cannot get out,distress
+please be careful because the emergency exit is blocked by equipment,hazard_report
+the staff member is preparing for today's training exercise,normal
+please do not leave me alone i am afraid to be alone,distress
+the ambulance outside is being used for a training exercise,normal
+the area is unsafe because the safety barrier has fallen over,hazard_report
+there is a safety problem because a power cable is lying across the walkway,hazard_report
+please do not leave me alone i am scared,distress
+the battery pack is burning and the flames are spreading,fire
+a visitor is looking through the windows of parked vehicles,security
+the storage shelf is on fire,fire
+somebody please come i am panicking,distress
+flames are visible inside the server room,fire
+this person feels weak,medical
+the area is unsafe because a chemical is leaking from the container,hazard_report
+the battery pack has caught fire,fire
+i need to report that the ventilation fan has stopped and the room is overheating,hazard_report
+flames are coming from the vehicle,fire
+a suspicious person is stealing equipment from the office,security
+please be careful because a chemical is leaking from the container,hazard_report
+a stranger entered behind an employee without scanning a pass,security
+the technician is waiting for a scheduled appointment,normal
+someone help me i need help immediately,distress
+please do not leave me alone something is wrong,distress
+somebody please come i cannot get out,distress
+a visitor is stealing equipment from the office,security
+the emergency exercise has finished and everything is normal,normal
+the battery pack is on fire,fire
+the worker has pain in the wrist,medical
+please come quickly i am trapped,distress
+gas is leaking from the pipe,hazard_report
+the technician is doing a routine check,normal
+please be careful because the storage rack is leaning and looks unstable,hazard_report
+please help me i am really frightened,distress
+something is actively burning in the utility room,fire
+an unknown person is trying to enter a staff only area,security
