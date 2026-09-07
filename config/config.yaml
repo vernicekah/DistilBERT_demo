@@ -1,6 +1,6 @@
 model:
   pretrained_name: distilbert-base-uncased
-  output_dir: ../models/distilbert-emergency-classifier
+  output_dir: ../models/distilbert-finetuned # modify according to finetuned model location
   max_length: 128
 
 training:
@@ -22,5 +22,6 @@ labels:
   - distress
   - hazard_report
 
+# modify to the confidence score to alert
 inference:
   alert_threshold: 0.80
